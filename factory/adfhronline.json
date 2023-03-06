@@ -1,0 +1,9 @@
+{
+	"name": "adfhronline",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4d9179d8-34fa-40ab-81e4-44dc9e180c59",
+		"tenantId": "cec99d8f-8217-45aa-9c74-8a611c24986c"
+	}
+}
